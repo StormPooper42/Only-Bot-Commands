@@ -1,0 +1,13 @@
+{
+	"name": "Only-Bot-Commands",
+	"version": "1.0.0",
+	"description": "Bot for stopping spam messages in bot channel",
+	"main": "bot.js",
+  "scripts": {
+      "start": "node bot.js"
+  },
+	"author": "StormPooper",
+	"dependencies": {
+		"discord.js": "^11.4.2"
+	}
+}
